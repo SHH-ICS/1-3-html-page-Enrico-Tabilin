@@ -4,11 +4,16 @@ body {
 
 h1 {
   background-color: rgb(200, 0, 255);
-  color: hsl(147, 50%, 47%);
+  color: hsl(50, 100%, 50%);
   padding: 40px;
   text-align: center;
 }
 
+img {
+  align-self: center;
+}
+
 p {
   background-color: #ff00ff;
+  text-align: center;
 }

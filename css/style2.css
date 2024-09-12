@@ -1,0 +1,21 @@
+body {
+  background-color: blueviolet;
+}
+
+h1 {
+  color: hsl(50, 100%, 50%);
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+ul {
+  text-shadow: 5cm;
+  text-decoration: underline;
+}
+
+table {
+  text-align: center;
+}
